@@ -161,6 +161,8 @@ SMLP-KAN maintains consistently high PSNR across all spectral bands,
 demonstrating robust spectral fidelity.
 </em>
 </div>
+
+
 | Method | Botswana | Chikusei | PaviaC | PaviaU | WDC |
 |---|---|---|---|---|---|
 | GPPNN | 28.75 | 24.46 | 28.33 | 31.45 | 25.24 |
@@ -198,6 +200,7 @@ across all 166 bands, demonstrating robustness under real-world degradations.
 SMLP-KAN achieves state-of-the-art performance with **~41× fewer parameters**.
  
  
+
 ## Ablation Study
  
 ### Effect of RHAG Components (HSI Inpainting, mask rate 0.05)
