@@ -8,7 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.11+-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Hongcheng Jiang<sup>1\*</sup>, Jingtang Ma<sup>2†</sup>, Gaoyuan Du<sup>3</sup>, Jingchen Sun<sup>4</sup>, Gengyuan Zhang<sup>5</sup>, Zejun Zhang<sup>6</sup>, Kai Luo<sup>7‡</sup>**
+**Hongcheng Jiang<sup>1\*</sup>, [Jingtang Ma](https://www.project-arthur.com)<sup>2†</sup>, Gaoyuan Du<sup>3</sup>, Jingchen Sun<sup>4</sup>, Gengyuan Zhang<sup>5</sup>, Zejun Zhang<sup>6</sup>, Kai Luo<sup>7‡</sup>**
 
 <sup>1</sup>Liaoning Finance & Trade College &nbsp;|&nbsp;
 <sup>2</sup>Amazon Web Services &nbsp;|&nbsp;
